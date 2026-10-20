@@ -1,0 +1,15 @@
+{
+  "name": "Flight Study #001",
+  "description": "Original aircraft-themed digital art created for a wallet display experiment. Independent collectible. Not affiliated with Telegram, Fragment, or any official +888 phone number.",
+  "image": "https://raw.githubusercontent.com/ltb888/nft/main/assets/flight_001_original.png",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Flight Study 001"
+    },
+    {
+      "trait_type": "Artwork",
+      "value": "Original"
+    }
+  ]
+}
