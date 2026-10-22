@@ -1,0 +1,19 @@
+{
+  "name": "Morning Valley #001",
+  "description": "Original digital landscape illustration: a quiet mountain valley at first light. First study in the Cloudline Journal collection. This NFT represents artwork only, with no phone number, account or external service rights.",
+  "image": "https://raw.githubusercontent.com/ltb888/nft/main/cloudline-journal-v1/assets/morning-valley-001.webp",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Cloudline Journal Vol. 1"
+    },
+    {
+      "trait_type": "Artwork",
+      "value": "Morning Valley"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "001"
+    }
+  ]
+}
